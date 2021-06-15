@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Wake up 🛏",
+      "day": "May, 15 2021, 8:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Eat breakfast 🍽",
+      "day": "May, 15 2021 à 8:15 AM",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Coding time! 💻",
+      "day": "May, 15 2021 à 9:00 AM",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Miam time! 🍔",
+      "day": "May, 15 2021 à 1:00 PM",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "text": "Coding time! 👨‍💻",
+      "day": "May, 15 2021 à 2:00 PM",
+      "reminder": false
+    },
+    {
+      "id": "6",
+      "text": "Dodo time! 😴",
+      "day": "May, 15 2021 à 11:20 PM",
+      "reminder": true
+    }
+  ]
+}
